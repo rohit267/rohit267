@@ -28,9 +28,9 @@
 
 
 
-<!-- [![Twitter: shi__wal](https://img.shields.io/twitter/follow/shi__wal?style=social)](https://twitter.com/shi__wal) <br/>
-[![LinkedIn: shi-wal](https://img.shields.io/badge/-shiwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shi-wal/)](https://www.linkedin.com/in/shi-wal/) -->
-<!-- [![GitHub: shi-wal](https://img.shields.io/github/followers/shi-wal?label=follow&style=social)](https://github.com/shi-wal) -->
+<!-- [![Twitter: shi__wal](https://img.shields.io/twitter/follow/shi__wal?style=social)](https://twitter.com/shi__wal) <br/> -->
+[![LinkedIn: shi-wal](https://img.shields.io/badge/-shiwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-mahto-489526149)](https://www.linkedin.com/in/shi-wal/)
+[![GitHub: shi-wal](https://img.shields.io/github/followers/rohit267?label=follow&style=social)](https://github.com/rohit267)
 
 
 ### Languages and Tools:
