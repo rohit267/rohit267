@@ -1,4 +1,4 @@
-# Hey, I'm [Rohit Mahto]! 👋
+# Hey, I'm Rohit Mahto! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shi-wal&label=Views&color=blue&style=plastic" alt="rohit267" /> </p>
 
@@ -6,7 +6,7 @@
   <img align="left" alt="Shivangi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/rohit-mahto-489526149">
-  <img align="left" alt="Shivangi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rohit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <!-- <a href="">
   <img align="left" alt="Shivangi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -24,7 +24,7 @@
 - 🌱 I’m curious in learning more about technology.
 - 🤔 I contribute on open source projects.
 - 💬 Ask me about Web & JavaScript development or any tech related stuff.
-- 📫 How to reach me: [Email:rohitmahto267@gmail.com](mailto:rohitmahto267@gmail.com)
+- 📫 How to reach me: rohitmahto267@gmail.com
 
 
 
