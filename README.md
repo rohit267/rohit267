@@ -20,7 +20,7 @@
 <br/>
 
 
-- 🎓 I'm currently pursuing B. Tech. in Computer Science & Engineering graduated in 2021.
+- 🎓 I'm Computer Science & Engineering graduate.
 - 🌱 I’m curious in learning more about technology.
 - 🤔 I contribute on open source projects.
 - 💬 Ask me about Web & JavaScript development or any tech related stuff.
