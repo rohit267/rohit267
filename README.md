@@ -2,18 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shi-wal&label=Views&color=blue&style=plastic" alt="rohit267" /> </p>
 
-<!-- <a href="https://twitter.com/shi__wal">
-  <img align="left" alt="Shivangi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
 <a href="https://www.linkedin.com/in/rohit-mahto-489526149">
   <img align="left" alt="Rohit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<!-- <a href="">
-  <img align="left" alt="Shivangi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> -->
-<!-- <a href="">
-  <img align="left" alt="Shivangi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a> -->
 
 
 <br/>
@@ -29,7 +20,7 @@
 
 
 <!-- [![Twitter: shi__wal](https://img.shields.io/twitter/follow/shi__wal?style=social)](https://twitter.com/shi__wal) <br/> -->
-[![LinkedIn: roht267](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-mahto-489526149)](https://www.linkedin.com/in/shi-wal/)
+[![LinkedIn: roht267](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-mahto-489526149)](https://www.linkedin.com/in/rohit-mahto-489526149)
 [![GitHub: rohit267](https://img.shields.io/github/followers/rohit267?label=follow&style=social)](https://github.com/rohit267)
 
 
