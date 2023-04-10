@@ -15,7 +15,7 @@
 - 🌱 I’m curious in learning more about technology.
 - 🤔 I contribute on open source projects.
 - 💬 Ask me about Web & JavaScript development or any tech related stuff.
-- 📫 How to reach me: rohitmahto267@gmail.com
+- 📫 How to reach me: rohit@champdev.me
 
 
 
@@ -32,13 +32,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-<a href="https://github.com/rohit267">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit267&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/shi-wal">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit267&show_icons=true&theme=dark&line_height=27" alt="Rohit's github stats"/>
-</a>
 
 
 <div align="center">
